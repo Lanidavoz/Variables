@@ -1,0 +1,16 @@
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/Variables
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/Variables.deps.json
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/Variables.dll
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/ref/Variables.dll
+/home/scooter/App.NET/Variables/bin/Debug/net5.0/Variables.pdb
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.csprojAssemblyReference.cache
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.dll
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/ref/Variables.dll
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.pdb
+/home/scooter/App.NET/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache
